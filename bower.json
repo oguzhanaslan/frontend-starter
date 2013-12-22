@@ -8,6 +8,7 @@
     "app/vendor"
   ],
   "dependencies": {
-    "bootstrap": "~3.0.3"
+    "bootstrap": "~3.0.3",
+    "font-awesome": "~4.0.3"
   }
 }
