@@ -6,5 +6,8 @@
     "**/.*",
     "node_modules",
     "app/vendor"
-  ]
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.3"
+  }
 }
