@@ -1,10 +1,10 @@
-frontend-starter
-================
+Front End Starter
+=================
 
 A Grunt based workflow for rapid development with Bootstrap, Font Awesome, Angular, and more....
 
 
-## STATUS: *WORK IN PROGRESS*
+_STATUS:_ *WORK IN PROGRESS*
 
 
 ## Planned Support:
